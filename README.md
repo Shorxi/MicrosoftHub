@@ -86,17 +86,6 @@ MicrosoftEcosystemHub/
 
 ---
 
-## 📝 **README‑Kurzversion (für GitHub)**
-
-Hier ist die **komplette, kurze README**, die du direkt einfügen kannst:
-
----
-
-# Microsoft Ecosystem Desktop Hub V1
-
-Der Microsoft Ecosystem Desktop Hub ist ein kompakter Windows‑Launcher, der das gesamte Microsoft‑Ökosystem in einer einzigen App bündelt.  
-Er bietet schnellen Zugriff auf über 40 Microsoft‑Dienste, eine integrierte Inline‑Suchmaschine (Wikipedia, Microsoft Learn, Bing) sowie native Windows‑Protokolle wie `ms-settings:` und `windowsdefender:`.
-
 ## Features
 - Edge‑App‑Mode Launcher (`--app`)
 - Auto‑Slide‑Orb (Docking)
