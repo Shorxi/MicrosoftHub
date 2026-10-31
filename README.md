@@ -141,12 +141,6 @@ Sie kompiliert das Projekt, erzeugt das Icon und legt die fertige EXE auf dem De
 
 ---
 
-Alles klar Emanuel — ich schreibe dir den Hinweis **kurz, klar, technisch sauber** und so, dass er perfekt in deine README passt, ohne Angst zu machen oder übertrieben zu wirken.
-
-Hier ist der fertige Text, den du **1:1** übernehmen kannst:
-
----
-
 ## ⚠️ Wichtiger Hinweis zur Erstellung
 
 Da der Microsoft Ecosystem Desktop Hub **keine offiziell signierte Microsoft‑Datei** ist, kann es vorkommen, dass manche Virenscanner die frisch erzeugte EXE fälschlicherweise blockieren oder löschen.  
