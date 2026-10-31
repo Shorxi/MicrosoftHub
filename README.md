@@ -127,7 +127,7 @@ MicrosoftEcosystemHub/
   - `windowsdefender:`
 
 - **Persistente Einstellungen (INI)**  
-  Speichert Position, AlwaysOnTop, AppMode Veriegeln Schloss.
+  Speichert Position, AlwaysOnTop, AppMode Verriegelung Schloss.
 <img width="170" height="82" alt="hub" src="https://github.com/user-attachments/assets/a860e2be-37c8-4918-a6f2-f76540593417" />
 
 - **Keine Telemetrie**  
