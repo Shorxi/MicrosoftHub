@@ -98,5 +98,5 @@ Mit dem Einreichen eines Pull Requests stimmst du zu, dass dein Beitrag unter de
 ---
 
 ## 🤝 **Danke!**
-Jeder Beitrag — ob klein oder groß — hilft dabei, den Microsoft Ecosystem Desktop Hub weiterzuentwickeln.  
+Jeder Beitrag ob klein oder groß hilft dabei, den Microsoft Ecosystem Desktop Hub weiterzuentwickeln.  
 Vielen Dank für deine Unterstützung!
