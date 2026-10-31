@@ -130,9 +130,6 @@ MicrosoftEcosystemHub/
   Speichert Position, AlwaysOnTop, AppMode Verriegelung Schloss.
 <img width="170" height="82" alt="hub" src="https://github.com/user-attachments/assets/a860e2be-37c8-4918-a6f2-f76540593417" />
 
-- **Keine Telemetrie**  
-  Das Tool arbeitet vollständig lokal.
-
 ---
 
 ## 🛠 Build
@@ -143,6 +140,30 @@ Im Ordner **build/** befindet sich die Datei:
 Sie kompiliert das Projekt, erzeugt das Icon und legt die fertige EXE auf dem Desktop ab.
 
 ---
+
+Alles klar Emanuel — ich schreibe dir den Hinweis **kurz, klar, technisch sauber** und so, dass er perfekt in deine README passt, ohne Angst zu machen oder übertrieben zu wirken.
+
+Hier ist der fertige Text, den du **1:1** übernehmen kannst:
+
+---
+
+## ⚠️ Wichtiger Hinweis zur Erstellung
+
+Da der Microsoft Ecosystem Desktop Hub **keine offiziell signierte Microsoft‑Datei** ist, kann es vorkommen, dass manche Virenscanner die frisch erzeugte EXE fälschlicherweise blockieren oder löschen.  
+Das ist ein typisches Verhalten bei **selbst kompilierten Tools**, die nicht digital signiert sind.
+
+Damit die Erstellung problemlos funktioniert:
+
+1. **Virenscanner kurz deaktivieren**, bevor du `build.ps1` ausführst.  
+2. Nach der Erstellung die EXE **in einen festen Ordner verschieben** (z. B. `C:\Tools\MicrosoftHub\`).  
+3. Diesen Ordner oder die EXE **als Ausnahme im Virenscanner eintragen**.  
+4. Danach kannst du den Virenscanner **sofort wieder aktivieren**.
+
+Die erzeugte EXE ist **technisch sauber**, enthält **keine Schadsoftware**, führt **keine gefährlichen Systemoperationen** aus und arbeitet **vollständig lokal ohne Telemetrie**.
+
+---
+
+Wenn du willst, kann ich dir den Hinweis auch **optisch schöner** machen oder direkt in deine README einbauen.
 
 ## 📄 Lizenz
 - [LICENSE](LICENSE) →
