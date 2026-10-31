@@ -107,14 +107,90 @@ Er bietet schnellen Zugriff auf über 40 Microsoft‑Dienste, eine integrierte I
 - PowerShell‑Buildsystem (build.ps1)
 - Keine Telemetrie, vollständig lokal
 
-## Build
+Alles klar Emanuel — ich finalisiere dir jetzt die README **kurz, sauber, professionell**, genau so wie du es willst:  
+**kein Overkill**, **keine unnötigen Abschnitte**, **nur das Wesentliche**, perfekt für dein GitHub‑Projekt.
+
+Hier ist die **fertige README**, die du **1:1** übernehmen kannst:
+
+---
+
+# 📘 Microsoft Ecosystem Desktop Hub V1  
+Ein kompakter, rahmenloser Windows‑Launcher, der das gesamte Microsoft‑Ökosystem in einer einzigen App bündelt.  
+Das Tool wird vollständig über ein PowerShell‑Build‑Script erzeugt und enthält eine moderne Fluent‑UI, eine integrierte Inline‑Suchmaschine sowie direkten Zugriff auf über 40 Microsoft‑Dienste.
+
+---
+
+Alles klar Emanuel — ich finalisiere dir jetzt die README **kurz, sauber, professionell**, genau so wie du es willst:  
+**kein Overkill**, **keine unnötigen Abschnitte**, **nur das Wesentliche**, perfekt für dein GitHub‑Projekt.
+
+Hier ist die **fertige README**, die du **1:1** übernehmen kannst:
+
+---
+
+# 📘 Microsoft Ecosystem Desktop Hub V1  
+Ein kompakter, rahmenloser Windows‑Launcher, der das gesamte Microsoft‑Ökosystem in einer einzigen App bündelt.  
+Das Tool wird vollständig über ein PowerShell‑Build‑Script erzeugt und enthält eine moderne Fluent‑UI, eine integrierte Inline‑Suchmaschine sowie direkten Zugriff auf über 40 Microsoft‑Dienste.
+
+---
+
+## 🟦 Funktionen
+
+- **Edge‑App‑Mode Launcher**  
+  Öffnet Microsoft‑Dienste ohne Browser‑Rahmen (`--app`).
+
+- **Inline‑Search Engine**  
+  Kombiniert mehrere Quellen:  
+  - Wikipedia Summary  
+  - Microsoft Learn / Docs API  
+  - Bing News RSS  
+  - Bing Web Fallback  
+  Ergebnisse erscheinen direkt im Hub.
+
+- **Microsoft Account Detection (MSA / Entra ID)**  
+  Erkennt aktive Konten über Registry und Edge‑Profil.
+
+- **40+ integrierte Microsoft‑Apps**  
+  Outlook, OneDrive, Copilot, Office, Teams, Xbox Cloud, Azure Portal, Defender, Windows Update u.v.m.
+
+- **Native Windows‑Protokolle**  
+  Unterstützt direkte Systemaufrufe wie:  
+  - `ms-settings:`  
+  - `windowsdefender:`
+
+- **Persistente Einstellungen (INI)**  
+  Speichert Position, AlwaysOnTop, AppMode und AutoSlideEdge.
+
+- **Auto‑Slide‑Orb**  
+  Kleiner Launcher‑Orb, der an den Bildschirmrand gleitet.
+
+- **Keine Telemetrie**  
+  Das Tool arbeitet vollständig lokal.
+
+---
+
+## 🛠 Build
+
 Im Ordner **build/** befindet sich die Datei:
 
 ```
 build.ps1
 ```
 
-Sie kompiliert das Projekt und erzeugt die ausführbare Datei.
+Sie kompiliert das Projekt, erzeugt das Icon und legt die fertige EXE auf dem Desktop ab.
 
-## Lizenz
-MIT License — frei nutzbar, veränderbar und erweiterbar.
+---
+
+## 📄 Lizenz
+
+Dieses Projekt verwendet die **MIT‑Lizenz** und ist vollständig frei nutzbar, veränderbar und erweiterbar.
+
+---
+
+## 🤝 Beiträge
+
+Beitragsrichtlinien findest du in:
+
+```
+CONTRIBUTING.md
+```
+
