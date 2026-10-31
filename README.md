@@ -5,7 +5,7 @@
 
 ## 🟦 **Kurzbeschreibung**
 Der **Microsoft Ecosystem Desktop Hub V1** ist ein kompakter, rahmenloser Windows‑Launcher, der das gesamte Microsoft‑Ökosystem in einer einzigen App bündelt.  
-Er bietet schnellen Zugriff auf Microsoft‑Dienste, eine integrierte Inline‑Suchmaschine und eine moderne Fluent‑Design‑Oberfläche — komplett ohne Telemetrie und vollständig lokal auf deinem System.
+Er bietet schnellen Zugriff auf Microsoft‑Dienste, eine integrierte Inline‑Suchmaschine und eine moderne Fluent‑Design‑Oberfläche komplett ohne Telemetrie und vollständig lokal auf deinem System.
 
 ---
 
