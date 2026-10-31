@@ -17,6 +17,7 @@ Er bietet schnellen Zugriff auf Microsoft‑Dienste, eine integrierte Inline‑S
 
 ### 🔹 **2. Auto‑Slide‑Orb (Docking)**  
 Der Launcher kann an den Bildschirmrand gleiten und dort als kleiner Orb „parken“.
+
 <img width="165" height="202" alt="Screenshot 2026-10-31 042818" src="https://github.com/user-attachments/assets/21e44328-1886-4fde-ae20-8f2040b8f314" />
 
 ### 🔹 **3. Inline‑Search Engine (Copilot‑ähnlich)**  
