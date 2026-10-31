@@ -172,9 +172,8 @@ Das Tool wird vollständig über ein PowerShell‑Build‑Script erzeugt und ent
 
 Im Ordner **build/** befindet sich die Datei:
 
-```
-[build.ps1](
-```
+- [build.ps1](build/build.ps1)
+
 
 Sie kompiliert das Projekt, erzeugt das Icon und legt die fertige EXE auf dem Desktop ab.
 
