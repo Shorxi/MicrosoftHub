@@ -99,25 +99,6 @@ MicrosoftEcosystemHub/
 
 ---
 
-# 📘 Microsoft Ecosystem Desktop Hub V1  
-Ein kompakter, rahmenloser Windows‑Launcher, der das gesamte Microsoft‑Ökosystem in einer einzigen App bündelt.  
-Das Tool wird vollständig über ein PowerShell‑Build‑Script erzeugt und enthält eine moderne Fluent‑UI, eine integrierte Inline‑Suchmaschine sowie direkten Zugriff auf über 40 Microsoft‑Dienste.
-
----
-
-Alles klar Emanuel — ich finalisiere dir jetzt die README **kurz, sauber, professionell**, genau so wie du es willst:  
-**kein Overkill**, **keine unnötigen Abschnitte**, **nur das Wesentliche**, perfekt für dein GitHub‑Projekt.
-
-Hier ist die **fertige README**, die du **1:1** übernehmen kannst:
-
----
-
-# 📘 Microsoft Ecosystem Desktop Hub V1  
-Ein kompakter, rahmenloser Windows‑Launcher, der das gesamte Microsoft‑Ökosystem in einer einzigen App bündelt.  
-Das Tool wird vollständig über ein PowerShell‑Build‑Script erzeugt und enthält eine moderne Fluent‑UI, eine integrierte Inline‑Suchmaschine sowie direkten Zugriff auf über 40 Microsoft‑Dienste.
-
----
-
 ## 🟦 Funktionen
 
 - **Edge‑App‑Mode Launcher**  
