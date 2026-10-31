@@ -157,8 +157,6 @@ Die erzeugte EXE ist **technisch sauber**, enthält **keine Schadsoftware**, fü
 
 ---
 
-Wenn du willst, kann ich dir den Hinweis auch **optisch schöner** machen oder direkt in deine README einbauen.
-
 ## 📄 Lizenz
 - [LICENSE](LICENSE) →
 Dieses Projekt verwendet die **MIT‑Lizenz** und ist vollständig frei nutzbar, veränderbar und erweiterbar.
