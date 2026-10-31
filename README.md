@@ -180,7 +180,7 @@ Sie kompiliert das Projekt, erzeugt das Icon und legt die fertige EXE auf dem De
 ---
 
 ## 📄 Lizenz
-
+- [LICENSE](LICENSE)
 Dieses Projekt verwendet die **MIT‑Lizenz** und ist vollständig frei nutzbar, veränderbar und erweiterbar.
 
 ---
