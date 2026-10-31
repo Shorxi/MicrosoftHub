@@ -76,7 +76,8 @@ Sie kompiliert das Projekt und erzeugt die EXE + Icon.
 ```
 MicrosoftEcosystemHub/
 │
-├── build/            → build.ps1
+├── build/            
+│   └── build.ps1     → build.ps1
 ├── README.md         → Projektbeschreibung
 ├── LICENSE           → MIT‑Lizenz
 ├── CONTRIBUTING.md   → Beitragsrichtlinien
