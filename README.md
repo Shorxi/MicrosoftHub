@@ -1,5 +1,6 @@
 # 📘 Microsoft Ecosystem Desktop Hub V1  
 ### *Kurze Projektbeschreibung & Funktionsübersicht*
+<img width="499" height="883" alt="Unbenannt" src="https://github.com/user-attachments/assets/de96edc7-438a-4730-8674-ef4b8d3feb36" />
 
 ---
 
@@ -16,6 +17,7 @@ Er bietet schnellen Zugriff auf Microsoft‑Dienste, eine integrierte Inline‑S
 
 ### 🔹 **2. Auto‑Slide‑Orb (Docking)**  
 Der Launcher kann an den Bildschirmrand gleiten und dort als kleiner Orb „parken“.
+<img width="165" height="202" alt="Screenshot 2026-10-31 042818" src="https://github.com/user-attachments/assets/21e44328-1886-4fde-ae20-8f2040b8f314" />
 
 ### 🔹 **3. Inline‑Search Engine (Copilot‑ähnlich)**  
 Die Suchfunktion kombiniert mehrere Quellen:
@@ -124,10 +126,8 @@ MicrosoftEcosystemHub/
   - `windowsdefender:`
 
 - **Persistente Einstellungen (INI)**  
-  Speichert Position, AlwaysOnTop, AppMode und AutoSlideEdge.
-
-- **Auto‑Slide‑Orb**  
-  Kleiner Launcher‑Orb, der an den Bildschirmrand gleitet.
+  Speichert Position, AlwaysOnTop, AppMode Veriegeln Schloss.
+<img width="170" height="82" alt="hub" src="https://github.com/user-attachments/assets/a860e2be-37c8-4918-a6f2-f76540593417" />
 
 - **Keine Telemetrie**  
   Das Tool arbeitet vollständig lokal.
