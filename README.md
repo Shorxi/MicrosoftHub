@@ -107,11 +107,6 @@ Er bietet schnellen Zugriff auf über 40 Microsoft‑Dienste, eine integrierte I
 - PowerShell‑Buildsystem (build.ps1)
 - Keine Telemetrie, vollständig lokal
 
-Alles klar Emanuel — ich finalisiere dir jetzt die README **kurz, sauber, professionell**, genau so wie du es willst:  
-**kein Overkill**, **keine unnötigen Abschnitte**, **nur das Wesentliche**, perfekt für dein GitHub‑Projekt.
-
-Hier ist die **fertige README**, die du **1:1** übernehmen kannst:
-
 ---
 
 # 📘 Microsoft Ecosystem Desktop Hub V1  
@@ -172,15 +167,13 @@ Das Tool wird vollständig über ein PowerShell‑Build‑Script erzeugt und ent
 
 Im Ordner **build/** befindet sich die Datei:
 
-- [build.ps1](build/build.ps1)
-
-
+- [build.ps1](build/build.ps1) →
 Sie kompiliert das Projekt, erzeugt das Icon und legt die fertige EXE auf dem Desktop ab.
 
 ---
 
 ## 📄 Lizenz
-- [LICENSE](LICENSE)
+- [LICENSE](LICENSE) →
 Dieses Projekt verwendet die **MIT‑Lizenz** und ist vollständig frei nutzbar, veränderbar und erweiterbar.
 
 ---
