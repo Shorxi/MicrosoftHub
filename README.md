@@ -76,10 +76,10 @@ Sie kompiliert das Projekt und erzeugt die EXE + Icon.
 ```
 MicrosoftEcosystemHub/
 │
-├── src/              → C#‑Code
 ├── build/            → build.ps1
 ├── README.md         → Projektbeschreibung
 ├── LICENSE           → MIT‑Lizenz
+├── CONTRIBUTING.md   → Beitragsrichtlinien
 └── .gitignore
 ```
 
